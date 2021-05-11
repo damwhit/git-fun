@@ -3,4 +3,6 @@ grocery list:
 cheese please
 bread
 lemons
+sugar
+flour
 
